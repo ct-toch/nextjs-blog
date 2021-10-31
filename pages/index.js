@@ -11,7 +11,8 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Learn <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Chhay Toch Notes! <br />
+          Powered by <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <Link href="/posts/first-post">
